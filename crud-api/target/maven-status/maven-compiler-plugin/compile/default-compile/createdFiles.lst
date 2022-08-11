@@ -1,0 +1,4 @@
+com/crud/api/repository/VehiclesRepository.class
+com/crud/api/CrudApiApplication.class
+com/crud/api/model/Vehicles.class
+com/crud/api/controller/VehiclesController.class
